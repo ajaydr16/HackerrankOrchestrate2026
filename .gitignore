@@ -31,3 +31,9 @@ data/index/
 data/embeddings/
 *.sqlite
 *.db
+
+# chromadb local index
+code/.chromadb/
+
+# generated outputs from dev runs
+support_tickets/sample_output.csv
